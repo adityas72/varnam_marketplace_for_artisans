@@ -1,6 +1,6 @@
 # 🎨✨ Varnam: Where Every Creation Tells a Story ✨🌍
 
-![Varnam Hero Banner](./) 
+![Varnam Hero Banner](https://varnam-artisans.netlify.app/) 
 *Imagine this as a vibrant, inspiring hero image of an artisan's hands creating, with a subtle tech overlay.*
 
 ---
