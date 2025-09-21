@@ -1,6 +1,6 @@
 # 🎨✨ Varnam: Where Every Creation Tells a Story ✨🌍
 
-![Varnam Hero Banner](https://placehold.co/1200x400/365314/f7f3e9?text=Varnam%3A+Connecting+Artisans+%26+The+World) 
+![Varnam Hero Banner](./) 
 *Imagine this as a vibrant, inspiring hero image of an artisan's hands creating, with a subtle tech overlay.*
 
 ---
@@ -93,7 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Connect & Create
 
-* **Project Link:** `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME`
+* **Project Link:** `[https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME](https://github.com/adityas72/varnam_marketplace_for_artisans)]`
 * **Contact:** adityaworksite@gmail.com
 
 ---
