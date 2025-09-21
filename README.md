@@ -1,6 +1,6 @@
 # 🎨✨ Varnam: Where Every Creation Tells a Story ✨🌍
 
-![Varnam Hero Banner](<img width="1901" height="932" alt="Screenshot 2025-09-21 155536" src="https://github.com/user-attachments/assets/7257655e-2570-4d8b-95be-5b46b20399aa" />) 
+![Varnam Hero Banner]<img width="1901" height="932" alt="Screenshot 2025-09-21 155536" src="https://github.com/user-attachments/assets/7257655e-2570-4d8b-95be-5b46b20399aa" />
 *Imagine this as a vibrant, inspiring hero image of an artisan's hands creating, with a subtle tech overlay.*
 
 ---
